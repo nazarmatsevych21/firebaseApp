@@ -22,10 +22,9 @@
 # How to run project locally
 1. Fork and clone this repository
 2. npm i
-3. npm i firebase
 4. replace "newsApiKey" with your own [newsApiKey](https://newsapi.org/)
 5. npm run serve
-7. open your browser at http://localhost:3000
+7. open your browser at http://localhost:8080
 
 # Dependencies
 - Node v12.16.3 and higher
